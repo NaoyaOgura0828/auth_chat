@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "120342640426",
+    "project_id": "authchat-98ff7",
+    "storage_bucket": "authchat-98ff7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120342640426:android:fd22fda646048b3befd053",
+        "android_client_info": {
+          "package_name": "com.example.auth_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120342640426-1toml6oaoi5a5n4jeq3o0crglvaaugq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6eJBS4lG6YXxuVsjSOi5Lu7lyMhxVPHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120342640426-1toml6oaoi5a5n4jeq3o0crglvaaugq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
